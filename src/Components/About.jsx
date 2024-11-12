@@ -94,6 +94,14 @@ const About = () => {
                                 </div>
 
                                 <div className='item'>
+                                    <img src="Images/bootstrap-logo.png"  />
+                                    <div style={{marginLeft:'25px'}}>
+                                        <h2>Bootstrap</h2>
+                                        <p>CSS Framework</p>
+                                    </div>
+                                </div>
+
+                                <div className='item'>
                                     <img src="Images/react.png"  />
                                     <div style={{marginLeft:'25px'}}>
                                         <h2>React</h2>
@@ -101,14 +109,37 @@ const About = () => {
                                     </div>
                                 </div>
 
-                                {/* <div className='item'>
-                                    <img src="Images/mui.png"  />
+                                <div className='item'>
+                                    <img src="Images/node-logoo.png"  />
                                     <div style={{marginLeft:'25px'}}>
-                                        <h2>Material UI</h2>
-                                        <p>UI Library</p>
+                                        <h2>NodeJS</h2>
+                                        <p>JS Library</p>
                                     </div>
-                                </div> */}
+                                </div>
 
+                                <div className='item'>
+                                    <img src="Images/express-js.png"  />
+                                    <div style={{marginLeft:'25px'}}>
+                                        <h2>ExpressJS</h2>
+                                        <p>Node Framework</p>
+                                    </div>
+                                </div>
+
+                                <div className='item'>
+                                    <img src="Images/mongodb-logo.png"  />
+                                    <div style={{marginLeft:'25px'}}>
+                                        <h2>MongoDB</h2>
+                                        <p>No SQL Database</p>
+                                    </div>
+                                </div>
+
+                                <div className='item'>
+                                    <img src="Images/python-logo.png"  />
+                                    <div style={{marginLeft:'25px'}}>
+                                        <h2>Python</h2>
+                                        <p>Programming</p>
+                                    </div>
+                                </div>
 
                                 <div className='item'>
                                     <img src="Images/java.png"  />
@@ -118,19 +149,19 @@ const About = () => {
                                     </div>
                                 </div>
 
-                                {/* <div className='item'>
-                                    <img src="Images/php1.png"  />
-                                    <div style={{marginLeft:'25px'}}>
-                                        <h2>PHP</h2>
-                                        <p>Backend</p>
-                                    </div>
-                                </div> */}
-
                                 <div className='item' >
                                     <img src="Images/mysql.png"  />
                                     <div style={{marginLeft:'25px'}}>
                                         <h2>MySql</h2>
                                         <p>Database</p>
+                                    </div>
+                                </div>
+
+                                <div className='item' >
+                                    <img src="Images/git-logo.png"  />
+                                    <div style={{marginLeft:'25px'}}>
+                                        <h2>Git</h2>
+                                        <p>Version Control</p>
                                     </div>
                                 </div>
 
